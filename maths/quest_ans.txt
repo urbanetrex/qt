@@ -3,3 +3,4 @@ Week 2: -1 -2
 Week 3: 10 100 100
 Week 4: 123 2 123
 Week 5: a+b a-b
+Week 6: Imagine a square which area is a^2. Then, cut off a square area b^2. This is a^2-b^2. You can cut off a rectangle near the cut-off square side, with an area of (a-b)b, then the left-off rectangle's area is (a-b)a. Put the cut-off rectangle to the left-off. The area is (a+b)(a-b), which is the answer of a^2-b^2.
