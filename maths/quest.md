@@ -16,3 +16,6 @@ What is 1+2+2^2+2^3+2^4+...+2^100?
 
 ## Week 5
 a^2-b^2=(   )(   )
+
+## Week 6
+Prove the formula in Week 5.
