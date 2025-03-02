@@ -22,7 +22,7 @@ a^2-b^2=(   )(   )
 Prove the formula in Week 5.
 
 ### Week 7
-Based on Week 1, what is 1/(2^16)+1/(2^8)+1/(2^4)?
+Based on Week 1, what is 1/(2^3)+1/(2^2)+1/2?
 
 ### Week 8
 Find the formula of Week 1 and Week 7.
