@@ -31,3 +31,7 @@ Find the formula of Week 1 and Week 7.
 What is 3^2+3^3+3^4+3^5?
 
 ### Week 10
+What is 5^2+5^3+5^4+5^5+5^6?
+
+### Week 11
+Find the formula of Week 1, 7, 9 and 10.
