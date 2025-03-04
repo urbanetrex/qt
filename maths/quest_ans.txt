@@ -11,6 +11,7 @@ Week 8: 2^a+2^(a+1)+2^(a+2)+...+2^(n-1) = 2^n-2^a
 Week 9: 3^2*(3^4-1)/2 = 360
 Week 10: 5^2*(5^5-1)/4 = 19,525
 NOTE: The answers in Week 9 and Week 10 are partically AI-generated.
+NOTE: Week 11 is seperated into three parts. After this, some solutions may also be seperated into parts.
 Week 11 Question: a+aq+aq^2+aq^3+...+aq^(n-1)
 Week 11 (q≠1): (q^n-1)a/q-1
 Week 11 (q=1): nq
