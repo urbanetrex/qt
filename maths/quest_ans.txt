@@ -6,3 +6,9 @@ Week 5: a+b a-b
 Week 6: Imagine a square which area is a^2. Then, cut off a square area b^2. This is a^2-b^2. You can cut off a rectangle near the cut-off square side, with an area of (a-b)b, then the left-off rectangle's area is (a-b)a. Put the cut-off rectangle to the left-off. The area is (a+b)(a-b), which is the answer of a^2-b^2.
 Week 7: 1-1/8=7/8
 Week 8: 2^a+2^(a+1)+2^(a+2)+...+2^(n-1) = 2^n-2^a
+Week 9: 3^2*(3^4-1)/2 = 360
+Week 10: 5^2*(5^5-1)/4 = 19,525
+NOTE: The answers in Week 9 and Week 10 are partically AI-generated.
+Week 11 Question: a+aq+aq^2+aq^3+...+aq^(n-1)
+Week 11 (q≠1): (q^n-1)a/q-1
+Week 11 (q=1): nq
