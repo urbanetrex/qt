@@ -1,4 +1,8 @@
 # Maths Quest Answers
+
+**Questions**: [see here.](https://github.com/urbanetrex/qt/blob/main/maths/quests.md)
+
+
 **Week 1**: 2^101-1
 
 **Week 2**: -1 -2
