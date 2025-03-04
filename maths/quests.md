@@ -35,3 +35,6 @@ What is 5^2+5^3+5^4+5^5+5^6?
 
 ### Week 11
 Find the formula of Week 1, 7, 9 and 10.
+
+### Week 12
+Based on Week 5, what is (2+1)(4+1)(8+1)(16+1)?
