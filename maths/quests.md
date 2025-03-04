@@ -1,4 +1,6 @@
-# Maths Quest
+# Maths Quest  
+**[Click here for answers](https://github.com/urbanetrex/qt/blob/main/maths/quest_ans.md)**
+
 ## Topic 1: Powers
 
 ### Week 1
