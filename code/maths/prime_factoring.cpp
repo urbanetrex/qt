@@ -7,7 +7,7 @@ bool prime(int nu){
     return 1;
 }
 int main() {
-    cout<<"Enter a number and this code will show all it's components. \nWARNING: Not for large numbers larger than 2147483647 or it's prime factors larger than 100000.\n>";
+    cout<<"Enter a number and this code will show all it's prime components. \nWARNING: Not for large numbers larger than 2147483647 or it's prime factors larger than 100000.\n>";
     int n;
     cin>>n;
     cout<<n<<" = ";
