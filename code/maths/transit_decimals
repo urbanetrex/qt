@@ -1,5 +1,36 @@
 #include <iostream>
 using namespace std;
+pair<int, int> convert(string input){
+    int point=0;
+    int repeat=0;
+    string whole="";
+    string decimal="";
+    string repeat_decimal="";
+    bool decimal_part=false;
+    bool repeat_mode=false;
+    for(int i=0; i<input.size(); i++){
+        
+    }
+}
 int main(){
-    
+    string instructions;
+    instructions="This program converts decimal numbers to fractions.\n";
+    instructions+="To use this program, enter a decimal number.\n";
+    instructions+="If it is a repeating decimal, put >  before the repeating part.\n";
+    cout<<"Decimal to fraction converter\n";
+    cout<<instructions;
+    cout<<"Enter i to show the instructions.\n";
+    cout<<"Enter q to quit.\n";
+    cout<<">>>";
+    string input;
+    cin>>input;
+    while(input!="q"){
+        if(input=="i"){
+            cout<<instructions;
+        }
+        pair<int, int> result=convert(input);
+        cout<<input<<" = "<<result.first<<"/"<<result.second<<endl;
+        cout<<">>>";
+        cin>>input;
+    }
 }
