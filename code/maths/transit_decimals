@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-pair<int, int> convert(string input){
+pair<string, string> convert(string input){
     int point=0;
     int repeat=0;
     string whole="";
@@ -9,7 +9,26 @@ pair<int, int> convert(string input){
     bool decimal_part=false;
     bool repeat_mode=false;
     for(int i=0; i<input.size(); i++){
-        
+        if(input[i]=='.'){
+            if(decimal_part){
+                
+            } else if (repeat_mode){
+                
+            } else {
+                decimal_part=true;
+                point=i;
+                whole=input.substr(0, i);
+            }
+        } else if (input[i]=='>'){
+            if (!decimal_part){
+
+            } else if (repeat_mode) {
+            } else {
+                repeat_mode=true;
+                repeat=i;
+                decimal=input.substr(point+1, repeat-point-1);
+            }
+        }
     }
 }
 int main(){
@@ -28,7 +47,7 @@ int main(){
         if(input=="i"){
             cout<<instructions;
         }
-        pair<int, int> result=convert(input);
+        pair<string, string> result=convert(input);
         cout<<input<<" = "<<result.first<<"/"<<result.second<<endl;
         cout<<">>>";
         cin>>input;
